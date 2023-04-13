@@ -11,6 +11,11 @@ Juego arkanoid realizado en canvas Javascript, como tarea de clase del curso de 
 - CSS
 - Javascript
 
+## Capturas de pantalla
+![image](https://user-images.githubusercontent.com/101201349/231677906-9dfc352e-c911-4c5c-b4ab-a92b9fd9eb08.png)
+![image](https://user-images.githubusercontent.com/101201349/231677976-d06c942a-bcb9-4eba-b49d-bb18d965919a.png)
+![image](https://user-images.githubusercontent.com/101201349/231678090-55657d1f-3981-4fda-ba3b-2c80fa007f05.png)
+
 
 ## Construido con 🛠️
 - VSCode - Editor de código fuente
